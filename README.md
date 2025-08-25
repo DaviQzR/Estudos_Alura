@@ -28,7 +28,7 @@ Dentro de cada uma você encontrará os projetos, códigos e anotações corresp
 
 Exemplo:  
 
-📦 alura-projects
+📦 Estudos_Alura
 ┣ 📂 front-end
 ┣ 📂 back-end
 ┣ 📂 desafios
@@ -45,6 +45,7 @@ Além de servir como registro da minha jornada de aprendizado, este repositório
 
 ## 📬 Contato
 👋 Quer trocar uma ideia sobre algum projeto?  
-Entre em contato comigo:  
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/daviqzdev/))  
-- [GitHub](https://github.com/)  
+- 🌐 [GitHub](https://github.com/DaviQzR)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daviqzdev/)  
+- 📧 [E-mail](mailto:daviqueirozdev@gmail.com)
+  
